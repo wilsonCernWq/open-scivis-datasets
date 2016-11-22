@@ -1,0 +1,8 @@
+{
+        "name": "Head MRT Angiography",
+        "type": "uint16",
+        "size": [416, 512, 112],
+        "spacing": [0.412, 0.412, 0.412],
+        "description": "3T MRT Time-of-Flight Angiography dataset of a human head. The dataset has been resampled into an isotropic voxel grid (hence the peculiar slice size).",
+        "acknowledgement": "Özlem Gürvit, Institute for Neuroradiology, Frankfurt, Germany"
+}
