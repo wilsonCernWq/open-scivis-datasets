@@ -1,0 +1,8 @@
+{
+        "name": "Engine",
+        "type": "uint8",
+        "size": [256, 256, 128],
+        "spacing": [1, 1, 1],
+        "description": "CT scan of two cylinders of an engine block.",
+        "acknowledgement": "General Electric"
+}
