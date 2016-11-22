@@ -1,0 +1,8 @@
+{
+        "name": "Stented Abdominal Aorta",
+        "type": "uint16",
+        "size": [512, 512, 174],
+        "spacing": [0.8398, 0.8398, 3.2],
+        "description": "CT Scan of the abdomen and pelvis. The dataset contains also a stent in the abdominal aorta. No contrast agent was used to enhance the blood vessels.",
+        "acknowledgement": "Michael Meißner, Viatronix Inc., USA"
+}
