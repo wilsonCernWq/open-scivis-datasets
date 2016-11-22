@@ -1,0 +1,8 @@
+{
+        "name": "Fuel",
+        "type": "uint8",
+        "size": [64, 64, 64],
+        "spacing": [1, 1, 1],
+        "description": "Simulation of fuel injection into a combustion chamber. The higher the density value, the less presence of air.",
+        "acknowledgement": "SFB 382 of the German Research Council (DFG)"
+}
