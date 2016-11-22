@@ -3,6 +3,7 @@
         "type": "uint8",
         "size": [256, 256, 128],
         "spacing": [1, 1, 1],
+        "sha512sum": "f17228483b1b5edb90146eac90ba979531629a2880d9e7a0493a98290da8af6ac2cf80f2c567a3d08695dc7dd854916c861dad8856b2d5721501954e913de13f",
         "description": "CT scan of two cylinders of an engine block.",
         "acknowledgement": "General Electric"
 }
