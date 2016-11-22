@@ -1,0 +1,8 @@
+{
+        "name": "Aneurism",
+        "type": "uint8",
+        "size": [256, 256, 256],
+        "spacing": [1, 1, 1],
+        "description": "Rotational C-arm x-ray scan of the arteries of the right half of a human head. A contrast agent was injected into the blood and an aneurism is present.",
+        "acknowledgement": "Philips Research, Hamburg, Germany"
+}
