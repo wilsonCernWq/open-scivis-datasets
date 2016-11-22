@@ -1,0 +1,8 @@
+{
+        "name": "Skull",
+        "type": "uint8",
+        "size": [256, 256, 256],
+        "spacing": [1, 1, 1],
+        "description": "Rotational C-arm x-ray scan of phantom of a human skull.",
+        "acknowledgement": "Siemens Medical Solutions, Forchheim, Germany"
+}
