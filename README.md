@@ -1,4 +1,4 @@
-The datasets can be found at [klacansky.com/open_scivis_datasets](https://klacansky.com/open_scivis_datasets).
+The datasets can be found at [klacansky.com/open-scivis-datasets](https://klacansky.com/open-scivis-datasets).
 
 All data is little-endian.
 
