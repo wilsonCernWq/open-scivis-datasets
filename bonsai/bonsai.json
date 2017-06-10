@@ -6,5 +6,5 @@
         "sha512sum": "b34156a0ffc80ffaf84d069f3d05a40fdd999a35f05492829a2b0c13403a3147e73712b1d10c2cc34da66a59540a1632dae6adc96f3ebf3efa5d4d6c10598997",
         "description": "CT scan of a bonsai tree.",
         "acknowledgement": "S. Roettger, VIS, University of Stuttgart",
-        "url": "http://cdn.klacansky.com/open_scivis_datasets/bonsai/bonsai_256x256x256_uint8.raw"
+        "url": "http://cdn.klacansky.com/open-scivis-datasets/bonsai/bonsai_256x256x256_uint8.raw"
 }
