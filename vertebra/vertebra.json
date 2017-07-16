@@ -1,5 +1,5 @@
 {
-        "name": "Head Aneuyrism",
+        "name": "Head Aneurism",
         "type": "uint16",
         "size": [512, 512, 512],
         "spacing": [0.1953, 0.1953, 0.1953],
