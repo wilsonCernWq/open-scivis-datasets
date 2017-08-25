@@ -1,4 +1,4 @@
-The datasets can be found at [klacansky.com/open-scivis-datasets](https://klacansky.com/open-scivis-datasets).
+The datasets can be found at [klacansky.com/open-scivis-datasets/](https://klacansky.com/open-scivis-datasets/).
 
 All data is little-endian.
 
@@ -12,7 +12,7 @@ Please, cite the repository to improve reproducibility.
    author = {Pavol Klacansky},
    year = {2017},
    month = {July},
-   note = {\small \texttt{https://klacansky.com/open-scivis-datasets}},
-   url = {https://klacansky.com/open-scivis-datasets}
+   note = {\small \texttt{https://klacansky.com/open-scivis-datasets/}},
+   url = {https://klacansky.com/open-scivis-datasets/}
 }
 ```
