@@ -11,7 +11,7 @@ Please, cite the repository to improve reproducibility.
    title = {Open SciVis Datasets},
    author = {Pavol Klacansky},
    year = {2017},
-   month = {July},
+   month = {October},
    note = {\small \texttt{https://klacansky.com/open-scivis-datasets/}},
    url = {https://klacansky.com/open-scivis-datasets/}
 }
