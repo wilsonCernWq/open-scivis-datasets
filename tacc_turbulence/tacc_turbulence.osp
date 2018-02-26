@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<volume name="volume">
+<dimensions> 256 256 256 </dimensions>
+<filename> tacc_turbulence_256x256x256_float32.raw </filename>
+<samplingRate> 1.0 </samplingRate>
+<voxelType> float </voxelType></volume>

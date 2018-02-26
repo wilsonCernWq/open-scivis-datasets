@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<volume name="volume">
+<dimensions> 256 256 124 </dimensions>
+<filename> mri_ventricles_256x256x124_uint8.raw </filename>
+<samplingRate> 1.0 </samplingRate>
+<voxelType> uchar </voxelType></volume>

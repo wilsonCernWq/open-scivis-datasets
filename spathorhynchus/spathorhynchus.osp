@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<volume name="volume">
+<dimensions> 1024 1024 750 </dimensions>
+<filename> spathorhynchus_1024x1024x750_uint16.raw </filename>
+<samplingRate> 1.0 </samplingRate>
+<voxelType> ushort </voxelType></volume>

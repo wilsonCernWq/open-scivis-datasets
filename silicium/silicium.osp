@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<volume name="volume">
+<dimensions> 98 34 34 </dimensions>
+<filename> silicium_98x34x34_uint8.raw </filename>
+<samplingRate> 1.0 </samplingRate>
+<voxelType> uchar </voxelType></volume>

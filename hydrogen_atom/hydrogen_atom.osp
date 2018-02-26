@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<volume name="volume">
+<dimensions> 128 128 128 </dimensions>
+<filename> hydrogen_atom_128x128x128_uint8.raw </filename>
+<samplingRate> 1.0 </samplingRate>
+<voxelType> uchar </voxelType></volume>

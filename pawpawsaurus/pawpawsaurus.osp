@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<volume name="volume">
+<dimensions> 958 646 1088 </dimensions>
+<filename> pawpawsaurus_958x646x1088_uint16.raw </filename>
+<samplingRate> 1.0 </samplingRate>
+<voxelType> ushort </voxelType></volume>

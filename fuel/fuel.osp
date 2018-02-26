@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<volume name="volume">
+<dimensions> 64 64 64 </dimensions>
+<filename> fuel_64x64x64_uint8.raw </filename>
+<samplingRate> 1.0 </samplingRate>
+<voxelType> uchar </voxelType></volume>

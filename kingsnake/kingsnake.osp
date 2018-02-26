@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<volume name="volume">
+<dimensions> 1024 1024 795 </dimensions>
+<filename> kingsnake_1024x1024x795_uint8.raw </filename>
+<samplingRate> 1.0 </samplingRate>
+<voxelType> uchar </voxelType></volume>

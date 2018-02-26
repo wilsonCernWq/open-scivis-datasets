@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<volume name="volume">
+<dimensions> 512 512 373 </dimensions>
+<filename> backpack_512x512x373_uint16.raw </filename>
+<samplingRate> 1.0 </samplingRate>
+<voxelType> ushort </voxelType></volume>

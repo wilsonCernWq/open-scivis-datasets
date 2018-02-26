@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<volume name="volume">
+<dimensions> 416 512 112 </dimensions>
+<filename> mrt_angio_416x512x112_uint16.raw </filename>
+<samplingRate> 1.0 </samplingRate>
+<voxelType> ushort </voxelType></volume>

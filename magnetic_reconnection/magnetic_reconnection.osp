@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<volume name="volume">
+<dimensions> 512 512 512 </dimensions>
+<filename> magnetic_reconnection_512x512x512_float32.raw </filename>
+<samplingRate> 1.0 </samplingRate>
+<voxelType> float </voxelType></volume>

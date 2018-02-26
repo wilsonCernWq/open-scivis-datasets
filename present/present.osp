@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<volume name="volume">
+<dimensions> 492 492 442 </dimensions>
+<filename> present_492x492x442_uint16.raw </filename>
+<samplingRate> 1.0 </samplingRate>
+<voxelType> ushort </voxelType></volume>
